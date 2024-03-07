@@ -1,0 +1,28 @@
+export type StackParamList = {
+ Welcome:undefined
+ Login:undefined 
+ Signup:undefined 
+ RecoveryEmail:undefined 
+ Utils:undefined
+ ChangePassword:undefined
+ OnBoarding:undefined
+ Home:undefined
+ DrawerNavigator:undefined
+ StartingPoint:undefined
+ RouteRider:undefined
+ MapSelection:undefined
+ TabNavigator:undefined
+ Payment:undefined
+ Group:undefined
+ Favourite:undefined
+ Pessenger:undefined
+ Contacts:undefined
+ NewRequest:undefined
+ TripDetail:undefined
+ Feedback:undefined
+ Checkout:undefined
+ GroupNavigator:undefined
+ Profile:undefined
+ EditProfile:undefined
+ AddVehicle:undefined
+}
